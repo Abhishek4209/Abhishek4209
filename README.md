@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image.png" alt="Profile Image" width="200"/>
+  <img src="https://github.com/Abhishek4209/Abhishek4209/blob/main/1000089404.jpg" alt="Profile Image" width="200"/>
 </p>
 
 <p align="center">
