@@ -8,9 +8,6 @@
   <a href="https://x.com/Abhishe21529227"><img src="https://img.shields.io/twitter/follow/abhishek-upadhyay?style=social" alt="Twitter"/></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=abhishek-upadhyay.abhishek-upadhyay" alt="Visitor Count"/>
-</p>
 
 ---
 
@@ -58,7 +55,7 @@
 ### Latest YouTube Video
 
 <p align="center">
-  <a href="https://youtu.be/aTXraC_CS6s?si=EnIE7gjCjr39KoDQ"><img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="Latest YouTube Video" width="500"/></a>
+  <a href="https://youtu.be/aTXraC_CS6s?si=EnIE7gjCjr39KoDQ"><img src="https://github.com/Abhishek4209/Flower-Image-Classification/blob/main/misc/sample_output.png" alt="Latest YouTube Video" width="500"/></a>
 </p>
 
 ---
@@ -71,6 +68,5 @@
   <a href="https://kaggle.com/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-grey?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=abhishek-upadhyay.abhishek-upadhyay" alt="Visitor Count"/>
+
 </p>
