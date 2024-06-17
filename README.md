@@ -51,10 +51,22 @@
 </details>
 
 <details>
-  <summary><b>Project 2: Sign Language Prediction </b></summary>
+  <summary><b>Project 3: Sign Language Prediction </b></summary>
   <p>Sign language is a vital means of communication for people with hearing impairments. This project aims to leverage machine learning algorithms to automatically interpret sign language gestures. By training models on a dataset of sign language gestures, the system can recognize and translate these gestures into text or speech.</p>
   <img src="https://github.com/Abhishek4209/Sign-Language-detection/blob/main/Cssd.gif" alt="Sign Language prediction" width="500"/>
 </details>
+
+
+
+<details>
+  <summary><b>Project 4: Vision based AttendanceSysytem </b></summary>
+  <p>Smart attendance system using OpenCv and Hara- Cascade Classifier .</p>
+  <img src="https://github.com/Abhishek4209/Smart--Attendence-System/blob/main/example.png" alt="Sign Language prediction" width="500"/>
+</details>
+
+
+
+
 ---
 
 ### Latest YouTube Video
