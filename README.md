@@ -50,11 +50,8 @@
   <p>Image-Classification-Streamlit-TensorFlow techniques.</p>
 <video width="320" height="240" controls>
   <source src="https://youtu.be/aTXraC_CS6s?si=Ol22vXAMgDWEZrAv" type="video/mp4">
-
   Your browser does not support the video tag.
 </video>
-  
-  <video src="https://youtu.be/aTXraC_CS6s?si=Ol22vXAMgDWEZrAv" alt="Demo Video" width="500"/>
 </details>
 
 <details>
