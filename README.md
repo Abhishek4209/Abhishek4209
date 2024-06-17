@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://kaggle.com/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-grey?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://twitter.com/abhishek-upadhyay"><img src="https://img.shields.io/twitter/follow/abhishek-upadhyay?style=social" alt="Twitter"/></a>
+  <a href="https://www.kaggle.com/abhishupadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-grey?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://x.com/Abhishe21529227"><img src="https://img.shields.io/twitter/follow/abhishek-upadhyay?style=social" alt="Twitter"/></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - 🤔 I’m looking for help with **Deploying Machine Learning Models**
 - 💬 Ask me about **Data Science, Machine Learning, and Python**
 - 📫 How to reach me **abhishek.upadhyay@example.com**
-- ⚡ Fun fact **I love solving puzzles and playing chess**
+- ⚡ Fun fact **I love solving puzzles and playing Keyboard 🎹 **
 
 ---
 
