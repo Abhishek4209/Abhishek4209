@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Deploying Machine Learning Models**
 - 💬 Ask me about **Data Science, Machine Learning, and Python**
-- 📫 How to reach me **abhishek.upadhyay@example.com**
+- 📫 How to reach me **abhishekupadhyay9336@gmail.com**
 - ⚡ Fun fact **I love solving puzzles and playing Keyboard 🎹 **
 
 ---
@@ -40,14 +40,16 @@
 ### Projects
 
 <details>
-  <summary><b>Project 1: Predicting House Prices</b></summary>
-  <p>Using advanced regression techniques to predict house prices based on various features.</p>
+  <summary><b>Project 1: Insurance Premium Prediction</b></summary>
+  <p>The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather han the ineffective part
+
+</p>
   <img src="https://user-images.githubusercontent.com/house-price-prediction.gif" alt="House Price Prediction" width="500"/>
 </details>
 
 <details>
-  <summary><b>Project 2: Sentiment Analysis</b></summary>
-  <p>Analyzing sentiments of movie reviews using NLP techniques.</p>
+  <summary><b>Project 2: Image-Classification </b></summary>
+  <p>Image-Classification-Streamlit-TensorFlow techniques.</p>
   <img src="https://user-images.githubusercontent.com/sentiment-analysis.gif" alt="Sentiment Analysis" width="500"/>
 </details>
 
@@ -56,7 +58,7 @@
 ### Latest YouTube Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=your-video-id"><img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="Latest YouTube Video" width="500"/></a>
+  <a href="https://youtu.be/aTXraC_CS6s?si=EnIE7gjCjr39KoDQ"><img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="Latest YouTube Video" width="500"/></a>
 </p>
 
 ---
