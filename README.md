@@ -48,10 +48,7 @@
 <details>
   <summary><b>Project 2: Image-Classification </b></summary>
   <p>Image-Classification-Streamlit-TensorFlow techniques.</p>
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/aTXraC_CS6s?si=Ol22vXAMgDWEZrAv" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+    <a href="https://youtu.be/aTXraC_CS6s?si=EnIE7gjCjr39KoDQ"><img src="https://github.com/Abhishek4209/Flower-Image-Classification/blob/main/misc/sample_output.png" alt="Latest YouTube Video" width="500"/></a>
 </details>
 
 <details>
