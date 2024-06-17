@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-![Visitor Count](https://profile-counter.glitch.me/{Abhishek4209}/count.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek4209&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Upadhyay" /> </p>
 
 <p align="center">
