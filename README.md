@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 ![Visitor Count](https://profile-counter.glitch.me/{Abhishek4209}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
