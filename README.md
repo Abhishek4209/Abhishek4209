@@ -48,7 +48,7 @@
 <details>
   <summary><b>Project 2: Image-Classification </b></summary>
   <p>Image-Classification-Streamlit-TensorFlow techniques.</p>
-  <img src="https://user-images.githubusercontent.com/sentiment-analysis.gif" alt="Sentiment Analysis" width="500"/>
+  <img src="https://youtu.be/aTXraC_CS6s?si=Ol22vXAMgDWEZrAv" alt="Sentiment Analysis" width="500"/>
 </details>
 
 <details>
