@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with **Deploying Machine Learning Models**
 - 💬 Ask me about **Data Science, Machine Learning, and Python**
 - 📫 How to reach me **abhishekupadhyay9336@gmail.com**
-- ⚡ Fun fact **I love solving puzzles and playing Keyboard 🎹 **
+- ⚡ Fun fact **I love  playing Harmonium and Keyboard 🎹 **
 
 ---
 
