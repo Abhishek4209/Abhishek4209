@@ -1,5 +1,6 @@
 
-<img src="https://5.imimg.com/data5/SELLER/Default/2023/2/FX/AU/GX/183973801/jaishreeram-500x500.jpg" alt="Image Loading">
+<img src="![Screenshot 2024-06-22 113610](https://github.com/Abhishek4209/Abhishek4209/assets/124072714/b269bf6b-beaf-4497-b909-28b4d8337d08)
+" alt="Image Loading">
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
