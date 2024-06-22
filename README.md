@@ -1,5 +1,5 @@
 
-<img src="https://5.imimg.com/data5/SELLER/Default/2023/2/FX/AU/GX/183973801/jaishreeram-500x500.jpg" alt="Image Loading" width="500" height="600">
+<img src="https://5.imimg.com/data5/SELLER/Default/2023/2/FX/AU/GX/183973801/jaishreeram-500x500.jpg" alt="Image Loading">
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
