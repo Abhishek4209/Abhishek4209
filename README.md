@@ -1,3 +1,8 @@
+
+<img src="![image](https://github.com/Abhishek4209/Abhishek4209/assets/124072714/2c2866c8-6bcb-4b57-adb4-ba435d4de0eb)
+" alt="Image Loading" width="500" height="600">
+
+
 <h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
