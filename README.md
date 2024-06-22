@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/Abhishek4209/Abhishek4209/blob/main/Screenshot%202024-06-22%20113610.png" alt="जय श्री राम">
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
 <h3 align="center">A passionate Data Scientist</h3>
