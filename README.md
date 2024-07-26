@@ -78,7 +78,7 @@
 ### Latest YouTube Video
 
 <p align="center">
-  <a href="https://youtu.be/aTXraC_CS6s?si=EnIE7gjCjr39KoDQ"><img src="https://github.com/Abhishek4209/Flower-Image-Classification/blob/main/misc/sample_output.png" alt="Latest YouTube Video" width="500"/></a>
+  <a href="https://youtu.be/I-OTug8N-5M?si=i-YXVVvqUI4TyNv2"><img src="https://github.com/Abhishek4209/House-Prices-Predection/blob/main/image.png" alt="Latest YouTube Video" width="500"/></a>
 </p>
 
 ---
