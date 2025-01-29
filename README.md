@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhishek4209&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Upadhyay" /> </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-upadhyay-35b183259/"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/abhishupadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-grey?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://x.com/Abhishe21529227"><img src="https://img.shields.io/twitter/follow/abhishek-upadhyay?style=social" alt="Twitter"/></a>
 <a href="https://replit.com/@AbhishekUpadh16"><img src="![image](https://github.com/Abhishek4209/Abhishek4209/assets/124072714/5b6b0a4d-a27f-4e50-87ba-bb82b8150696)
