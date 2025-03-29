@@ -1,95 +1,51 @@
+### Hi there, I'm Abhishek Upadhyay! 👋
 
-
-<h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
-<h3 align="center">A passionate Data Scientist</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhishek4209&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Upadhyay" /> </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-upadhyay-35b183259/"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/abhishupadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-grey?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://x.com/Abhishe21529227"><img src="https://img.shields.io/twitter/follow/abhishek-upadhyay?style=social" alt="Twitter"/></a>
-<a href="https://replit.com/@AbhishekUpadh16"><img src="![image](https://github.com/Abhishek4209/Abhishek4209/assets/124072714/5b6b0a4d-a27f-4e50-87ba-bb82b8150696)
-" 
-</p>
-
+🚀 **Data Scientist | Machine Learning Enthusiast | AI Engineer**
 
 ---
 
-### About Me
+### 🌟 About Me:
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Deploying Machine Learning Models**
-- 💬 Ask me about **Data Science, Machine Learning, and Python**
-- 📫 How to reach me **abhishekupadhyay9336@gmail.com**
-- ⚡ Fun fact **I love  playing  Keyboard 🎹 **
-
+- 🎓 B.Tech in Information Technology from Rajkiya Engineering College Ambedkar Nagar.
+- 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Computer Vision**.
+- 📊 Experienced in **Data Analysis, Feature Engineering, and Model Deployment**.
+- 🛠️ Skilled in **Python, SQL, Power BI, Flask, TensorFlow, and Scikit-Learn**.
+- 🚀 Currently exploring **Generative AI and LLMs**.
+- 🏏 Cricket Lover & 🎹 Keyboard Enthusiast.
 
 ---
 
 ### ⚡ Tech Stack:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+#### 🧠 **Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 🐍
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 🗄️
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 🤖
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 📊
+
+#### 🌍 **Full-Stack & Web Development**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 🌐
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 🎨
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 💻
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ⚛️
+
+#### 🔍 **Web Scraping & Automation**
+![Web Scraping](https://img.shields.io/badge/-WebScraping-FFD43B?style=for-the-badge&logo=python&logoColor=black) 🕷️
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) 🍜
 
 ---
 
+### 📊 GitHub Stats:
 
-### Projects
-
-<details>
-  <summary><b>Project 1: Insurance Premium Prediction</b></summary>
-  <p>The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather han the ineffective part
-
-</p>
-  <img src="https://user-images.githubusercontent.com/house-price-prediction.gif" alt="House Price Prediction" width="500"/>
-</details>
-
-<details>
-  <summary><b>Project 2: Image-Classification </b></summary>
-  <p>Image-Classification-Streamlit-TensorFlow techniques.</p>
-    <a href="https://youtu.be/aTXraC_CS6s?si=EnIE7gjCjr39KoDQ"><img src="https://github.com/Abhishek4209/Flower-Image-Classification/blob/main/misc/sample_output.png" alt="Latest YouTube Video" width="500"/></a>
-</details>
-
-<details>
-  <summary><b>Project 3: Sign Language Prediction </b></summary>
-  <p>Sign language is a vital means of communication for people with hearing impairments. This project aims to leverage machine learning algorithms to automatically interpret sign language gestures. By training models on a dataset of sign language gestures, the system can recognize and translate these gestures into text or speech.</p>
-  <img src="https://github.com/Abhishek4209/Sign-Language-detection/blob/main/Cssd.gif" alt="Sign Language prediction" width="500"/>
-</details>
-
-
-
-<details>
-  <summary><b>Project 4: Vision based AttendanceSysytem </b></summary>
-  <p>Smart attendance system using OpenCv and Hara- Cascade Classifier .</p>
-  <img src="https://github.com/Abhishek4209/Smart--Attendence-System/blob/main/example.png" alt="Sign Language prediction" width="500"/>
-</details>
-
-
-
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek4209&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4209&layout=compact&theme=radical)
 
 ---
 
-### Latest YouTube Video
+### 💡 Connect With Me:
 
-<p align="center">
-  <a href="https://youtu.be/I-OTug8N-5M?si=i-YXVVvqUI4TyNv2"><img src="https://github.com/Abhishek4209/House-Prices-Predection/blob/main/image.png" alt="Latest YouTube Video" width="500"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-upadhyay-35b183259/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek4209)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekupadhyay9336@gmail.com)
 
----
-
-### Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/abhishek-upadhyay"><img src="https://img.shields.io/twitter/follow/abhishek-upadhyay?style=social" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://kaggle.com/abhishek-upadhyay"><img src="https://img.shields.io/badge/-Abhishek%20Upadhyay-grey?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
-</p>
-
-
-</p>
+🔥 **Let's build something amazing together!** 🚀
