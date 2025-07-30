@@ -1,5 +1,3 @@
-# Save the generated README content into a Markdown file
-readme_content = """
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7949&width=750&lines=Hi+there%2C+I'm+Abhishek+Upadhyay!;Gen+AI+Engineer%7CData+Scientist%7CML+Engineer%7CData+Analyst" alt="Typing SVG" />
@@ -87,36 +85,11 @@ readme_content = """
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
----
-
-## 💼 Projects
-
-1. **Credit Card Default Prediction**  
-   `XGBoost | Modular Python | Flask`  
-   Achieved 82.03% accuracy using XGBoost and deployed with UI.
-
-2. **Vision-Based Smart Attendance System**  
-   `OpenCV | Face Recognition | Deep Learning`
-
-3. **Movie Recommendation System**  
-   `NLP | Cosine Similarity | Streamlit UI`
-
-4. **UI Code Generator from Hand-Drawn Wireframes**  
-   `Computer Vision | React | HTML/CSS Auto-generation`
-
-5. **Electricity Forecasting using LSTM**  
-   `Time Series | LSTM | TensorFlow`
-
-6. **IMDb Movie Rating Prediction**  
-   `Regression | EDA | Sklearn`
-
----
 
 ## 📫 Let's Connect
 
 - 📧 Email: **abhishekupadhyay9336@gmail.com**  
 - 📞 Phone: **+91 9336821380**  
-- 🌐 Portfolio: [Abhishek4209.github.io/portfolio](https://Abhishek4209.github.io/portfolio)  
 - 💼 LinkedIn: [linkedin.com/in/abhishek-upadhyay-35b183259](https://www.linkedin.com/in/abhishek-upadhyay-35b183259/)  
 - 🧑‍💻 GitHub: [github.com/Abhishek4209](https://github.com/Abhishek4209)
 
@@ -130,11 +103,3 @@ readme_content = """
 
 🔗 _Open to full-time roles in **AI**, **Data Science**, **ML**, **MLOps**, and **Generative AI**._
 """
-
-# Save it as README.md
-file_path = "/mnt/data/README.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-file_path
-
