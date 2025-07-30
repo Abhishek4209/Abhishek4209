@@ -1,132 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Abhishek Upadhyay | AI Engineer & Data Scientist</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to right, #1e1e2f, #2e2e48);
-      color: #fff;
-      text-align: center;
-      overflow-x: hidden;
-    }
-    .hero {
-      padding: 50px 20px;
-    }
-    .hero img {
-      width: 160px;
-      border-radius: 50%;
-      border: 5px solid #00ffff;
-      box-shadow: 0 0 30px #00ffff;
-    }
-    .hero h1 {
-      font-size: 2.5rem;
-      margin: 20px 0 10px;
-    }
-    .hero h3 {
-      color: #aaa;
-      font-weight: normal;
-      margin-bottom: 30px;
-    }
-    .tech-stack, .contact, .projects {
-      padding: 30px 20px;
-    }
-    .badges img {
-      margin: 5px;
-    }
-    .typing {
-      color: #00ffff;
-      font-weight: bold;
-      height: 30px;
-    }
-    .button {
-      background: #00ffff;
-      color: #000;
-      padding: 10px 20px;
-      border-radius: 10px;
-      font-weight: bold;
-      text-decoration: none;
-      transition: background 0.3s ease;
-    }
-    .button:hover {
-      background: #00cccc;
-    }
-    footer {
-      margin: 40px 0 10px;
-      color: #777;
-    }
-  </style>
-</head>
-<body>
-  <section class="hero">
-    <img src="https://avatars.githubusercontent.com/u/113229960?v=4" alt="Abhishek Upadhyay" />
-    <h1><span class="typing" id="typing"></span></h1>
-    <h3>🚀 AI | ML | GenAI | Full Stack | Data Science Enthusiast</h3>
-    <p><a class="button" href="mailto:abhishekupadhyay9336@gmail.com">Hire Me</a></p>
-  </section>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/113229960?v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 25px #00FFFF;" alt="Abhishek Profile"/>
+  <h1>Hi, I'm Abhishek Upadhyay! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <p><i>AI Engineer | Data Scientist | Full Stack Developer | ML & GenAI Enthusiast</i></p>
+</div>
 
-  <section class="tech-stack">
-    <h2>🧠 Tech Stack</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pinecone-7A42F4?style=for-the-badge&logo=data&logoColor=white" />
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/LangChain-4CAF50?style=for-the-badge&logo=langchain&logoColor=white" />
-    </div>
-  </section>
+---
 
-  <section class="contact">
-    <h2>🔗 Connect With Me</h2>
-    <p>
-      <a href="https://www.linkedin.com/in/abhishek-upadhyay-35b183259/" class="button">LinkedIn</a>
-      <a href="https://github.com/Abhishek4209" class="button">GitHub</a>
-    </p>
-  </section>
+### 🔥 Tech I'm Passionate About:
 
-  <footer>
-    <p>&copy; 2025 Abhishek Upadhyay. All rights reserved.</p>
-  </footer>
+**Languages & Frameworks:**
 
-  <script>
-    const words = ["Abhishek Upadhyay", "Data Scientist", "AI Engineer", "Full Stack Developer"];
-    let i = 0, timer;
-    function typingEffect() {
-      let word = words[i].split("");
-      let loopTyping = function () {
-        if (word.length > 0) {
-          document.getElementById("typing").innerHTML += word.shift();
-        } else {
-          deletingEffect();
-          return;
-        }
-        timer = setTimeout(loopTyping, 150);
-      };
-      loopTyping();
-    }
-    function deletingEffect() {
-      let word = words[i].split("");
-      let loopDeleting = function () {
-        if (word.length > 0) {
-          word.pop();
-          document.getElementById("typing").innerHTML = word.join("");
-        } else {
-          i = (i + 1) % words.length;
-          typingEffect();
-          return;
-        }
-        timer = setTimeout(loopDeleting, 80);
-      };
-      loopDeleting();
-    }
-    typingEffect();
-  </script>
-</body>
-</html>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI, ML & DL:**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**GenAI & NLP:**
+
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/-Transformers-FF4500?style=for-the-badge&logo=transformers&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-4CAF50?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-7A42F4?style=for-the-badge&logo=data&logoColor=white)
+
+**Visualization & BI Tools:**
+
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🚀 Featured Projects:
+
+- 🎬 **Movie Recommendation System** using NLP & Cosine Similarity → `Deployed on Streamlit`
+- 💳 **Credit Card Default Predictor** with XGBoost | Accuracy: 82.03%
+- 👨‍⚕️ **Medical Chatbot** using LLM + Pinecone + LangChain → `In Progress`
+- 📈 **Electricity Forecasting** using LSTM on Time Series Data
+- 🤖 **Vision-Based Attendance System** using OpenCV + Deep Learning
+
+---
+
+### 📫 Let’s Connect:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-upadhyay-35b183259/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek4209)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekupadhyay9336@gmail.com)
+
+---
+
+### ✨ Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek4209&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4209&layout=compact&theme=radical)
+
+---
+
+> “Strive for progress, not perfection.” — Abhishek Upadhyay
