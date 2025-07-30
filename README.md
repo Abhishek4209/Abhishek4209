@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Abhishek+Upadhyay!;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7949&width=690&lines=Hi+there%2C+I'm+Abhishek+Upadhyay!;Gen+AI+Engineer%7CData+Scientist%7CML+Engineer%7CData+Analyst" alt="Typing SVG" /></a>
+  
   </h1>
 </div>
 
